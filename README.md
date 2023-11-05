@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>CSE Undergrad at <a href="https://igdtuw.ac.in/">Indira Gandhi Delhi Technical University for Women</a><<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<p><em>CSE Undergrad at <a href="https://igdtuw.ac.in/">Indira Gandhi Delhi Technical University for Women</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AnanyaBhar1049?label=Follow)
