@@ -4,7 +4,7 @@
 <p><em>CSE Undergrad at <a href="https://igdtuw.ac.in/">Indira Gandhi Delhi Technical University for Women</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/AnanyaBhar1049?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Ananya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananya-bhardwaj-093713227/)](https://www.linkedin.com/in/ananya-bhardwaj-093713227/)
 ![GitHub followers](https://img.shields.io/github/followers/Ananya-Bhardwaj?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Ananya-Bhardwaj.Ananya-Bhardwaj)
