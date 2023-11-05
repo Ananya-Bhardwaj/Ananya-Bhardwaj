@@ -1,11 +1,12 @@
 ### Hi there, I am Ananya Bhardwaj 👋
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>CSE Undergrad at <a href="https://igdtuw.ac.in/">Indira Gandhi Delhi Technical University for Women</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<p><em>CSE Undergrad at <a href="https://igdtuw.ac.in/">Indira Gandhi Delhi Technical University for Women</a><<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AnanyaBhar1049?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ananya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananya-bhardwaj-093713227/)](https://www.linkedin.com/in/ananya-bhardwaj-093713227/)
+[![Linkedin: Ananya](https://img.shields.io/badge/-Ananya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananya-bhardwaj-093713227/)](https://www.linkedin.com/in/ananya-bhardwaj-093713227/)
 ![GitHub followers](https://img.shields.io/github/followers/Ananya-Bhardwaj?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Ananya-Bhardwaj.Ananya-Bhardwaj)
 
