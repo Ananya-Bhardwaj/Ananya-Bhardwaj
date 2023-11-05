@@ -1,6 +1,6 @@
 ### Hi there, I am Ananya Bhardwaj 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 
 <p><em>CSE Undergrad at <a href="https://igdtuw.ac.in/">Indira Gandhi Delhi Technical University for Women</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
