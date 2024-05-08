@@ -1,7 +1,7 @@
 <h3 align="center">Hi there, I am Ananya Bhardwaj<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=CSE+Undergrad+at+IGDTUW;Tech+Enthusiast;Web+Development+Learner;CyberSecurity+Lover" alt="Typing SVG" /></a></p>
 
-<img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500" height="200">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -12,6 +12,8 @@ const Ananya = {
   interests: CyberSecurity
 }
 ```
+<br>
+<br>
 
 <h2 align="center"> Connect With Me </h2>
 
