@@ -26,28 +26,34 @@ const Ananya = {
 <h2 align="center"> Connect With Me </h2>
 
 <p align="center">
-<a href="https://shinchancode.github.io/3d-react-portfolio/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
-<a href="https://dev.to/shinchancode" target="blank"><img align="center" src="https://img.icons8.com/windows/32/228BE6/dev.png" height="30" width="40" /></a>
 <a href="https://twitter.com/AnanyaBhar1049" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/twitter.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ananya-bhardwaj-093713227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-bhardwaj-093713227/" height="30" width="40" /></a>
+<a href="mailto:developerananyab@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
+
 </p>
 <br>
 <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=shinchancode&label=Profile%20views&color=0e75b6&style=flat" alt="shinchancode" /> </p>
 
 <h2 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /> Languages & Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,html,css,js,bootstrap,nodejs,django,flask,git,firebase,react" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,react,nodejs,express,mongodb" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,angular,bash,figma,vscode,ts,aws,gcp,mongodb,pug" />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,replit,mongodb,github,git" />
 </p><br>
 <hr>
+
+<!--
+
+write about gmail account an dabout the tech currently learning here like kali, tailwind
+
+-->
 
 <details open> 
   <summary><h2>📊 GitHub Stats:</h2></summary>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="shinchancode" /></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
-<p align="center" ><img src="https://streak-stats.demolab.com?user=shinchancode&theme=dark&border_radius=7.8" alt="shinchancode" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ananya-bhardwaj&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="ananya-bhardwaj" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-bhardwaj&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="ananya-bhardwaj" /></p>
+<p align="center" ><img src="https://streak-stats.demolab.com?user=ananya-bhardwaj&theme=dark&border_radius=7.8" alt="ananya-bhardwaj" /></p>
 </details>
 
 
