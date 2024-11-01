@@ -58,7 +58,7 @@ write about gmail account an dabout the tech currently learning here like kali, 
 <p align="center" ><img src="https://streak-stats.demolab.com?user=ananya-bhardwaj&theme=dark&border_radius=7.8" alt="ananya-bhardwaj" /></p>
 </details>
 
-<br> 
+<hr> 
 
 [![An image of @ananyabhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananyabhardwaj)](https://holopin.io/@ananyabhardwaj)
 
